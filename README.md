@@ -1,39 +1,130 @@
 # 💎 Gems Diamond Quality & Pricing Analysis Dashboard
 
-## 📊 Project Overview
-
-The **Gems Diamond Quality & Pricing Analysis Dashboard** is a data analytics project developed using **Microsoft Power BI**.
-
-The project focuses on analyzing diamond data and presenting insights related to **diamond quality, characteristics, and pricing** through an interactive Power BI dashboard.
-
-The project includes data preparation, calculated measures and columns, interactive visualizations, and dashboard reporting.
+An interactive **Power BI Dashboard** designed to analyze diamond quality, characteristics, and pricing. This project transforms raw diamond data into meaningful visual insights using Power BI, DAX, Power Query, and Excel.
 
 ---
 
-## 🎯 Project Objectives
+# 📊 Dashboard Preview
+
+![Gems Diamond Dashboard](screenshots/dashboard.png)
+
+---
+
+# 📝 Project Overview
+
+The **Gems Diamond Quality & Pricing Analysis Dashboard** provides an interactive analysis of diamond data to understand pricing patterns and the relationship between diamond characteristics and quality.
+
+The project includes data cleaning and transformation, calculated measures and columns, data analysis, and interactive dashboard development.
+
+---
+
+# 🎯 Project Objectives
+
+The main objectives of this project are:
 
 - Analyze diamond quality and pricing data
-- Understand relationships between diamond characteristics and price
+- Understand the relationship between diamond characteristics and price
+- Identify pricing patterns across different diamond attributes
 - Create meaningful KPIs and calculated measures
-- Transform and clean the dataset for analysis
+- Clean and transform raw data for analysis
 - Build an interactive Power BI dashboard
 - Present data-driven insights through visualizations
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies Used
 
 - **Power BI**
 - **Power Query**
 - **DAX**
 - **Microsoft Excel**
 - **Data Cleaning & Transformation**
+- **Data Modeling**
 - **Data Visualization**
-- **Data Analysis**
+- **Business Intelligence**
 
 ---
 
-## 📂 Project Structure
+# 📈 Dashboard Features
+
+## 🔹 KPI Analysis
+
+The dashboard includes KPI cards to provide a quick overview of important business metrics.
+
+## 🔹 Diamond Quality Analysis
+
+Analysis of diamond quality and characteristics to understand their impact on pricing.
+
+## 🔹 Pricing Analysis
+
+Visual analysis of diamond prices across different characteristics and quality levels.
+
+## 🔹 Interactive Filters
+
+Interactive slicers and filters allow users to explore the data dynamically.
+
+## 🔹 Data Visualization
+
+The dashboard uses different charts and visualizations to make complex data easier to understand.
+
+---
+
+# 🔄 Data Analysis Process
+
+### 1. Data Collection
+
+The diamond dataset was provided in **Microsoft Excel** format.
+
+### 2. Data Cleaning
+
+Raw data was cleaned and prepared using **Power Query**.
+
+### 3. Data Transformation
+
+Data transformations were performed to make the dataset suitable for analysis.
+
+### 4. Data Modeling
+
+The prepared data was organized and modeled in **Power BI**.
+
+### 5. DAX Calculations
+
+Calculated columns and measures were created using **DAX** to support dashboard analysis.
+
+### 6. Dashboard Development
+
+Interactive KPIs, charts, slicers, and visualizations were created in Power BI.
+
+---
+
+# 📊 Key Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- Power Query
+- DAX
+- Data Modeling
+- KPI Creation
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+
+---
+
+# 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| `diamonds.xlsx` | Dataset used for the project |
+| `Gems_Diamond_Project.pbix` | Power BI dashboard/project file |
+| `Measures_and_Calculated_Columns.xlsx` | DAX measures and calculated columns |
+| `Gems_Diamond_Project.pdf` | PDF version of the dashboard |
+| `dashboard.png` | Dashboard preview |
+
+---
+
+# 📂 Repository Structure
 
 ```text
 Gems-Diamond-Analysis/
